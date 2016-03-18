@@ -1,0 +1,6 @@
+# Offense count: 4
+Style/Documentation:
+  Exclude:
+    - 'spec/**/*'
+    - 'test/**/*'
+    - 'oo_rps.rb'
